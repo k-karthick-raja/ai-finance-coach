@@ -31,7 +31,7 @@ abstract final class AppTheme {
         foregroundColor: _onPrimary,
       ),
     ),
-    cardTheme: const CardTheme(
+    cardTheme: const CardThemeData(
       color: _surface,
       elevation: 1,
     ),
